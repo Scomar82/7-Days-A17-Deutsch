@@ -4,7 +4,7 @@ Deutsche Übersetzung von 7 Days to Die
 Das Archiv einfach in den Config-Ordner (...\steamapps\common\7 Days To Die\Data\Config) von 7 Days to Die entpacken
 und die vorhanden Dateien überschreiben lassen.
 
-Deutsche Übersetzung, letzte Änderung 5.8.2019:
+Deutsche Übersetzung Alpha 17.4b4, letzte Änderung 5.8.2019:
 
 - Localization - Quest.txt 100% Übersetzt
 - Skillbaum komplett
